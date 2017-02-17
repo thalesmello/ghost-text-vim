@@ -6,7 +6,7 @@
 		<string>com.ghosttext.vim</string>
 		<key>Program</key>
 		<string>/Users/thales/Projects/ghost-text-vim/ghost-text-server.tcl</string>
-		<key>RunAtLoad</key>
+		<key>KeepAlive</key>
 		<true/>
 	</dict>
 </plist>
